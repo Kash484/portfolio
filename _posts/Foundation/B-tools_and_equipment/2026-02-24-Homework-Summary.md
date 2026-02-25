@@ -1,19 +1,21 @@
-Iterations Homework Link: https://kash484.github.io/portfolio/2026/02/24/iterationshomework-redo.html
+### Homework Links
 
-Nested Conditionals Homework Link: https://kash484.github.io/portfolio/2026/02/24/nestedconditionals-redo.html 
+* [Iterations Homework](https://kash484.github.io/portfolio/2026/02/24/iterationshomework-redo.html)
 
-Arrays Homework Link: https://kash484.github.io/portfolio/2026/02/24/arrays-homework.html
+* [Nested Conditionals Homework](https://kash484.github.io/portfolio/2026/02/24/nestedconditionals-redo.html)
 
-Mathematical Expressions Homework Link: https://kash484.github.io/portfolio/2026/02/24/mathematicalexpressions-redo.html 
+* [Arrays Homework](https://kash484.github.io/portfolio/2026/02/24/arrays-homework.html)
 
-Booleans Homework Link: https://kash484.github.io/portfolio/2026/02/24/booleans-redo.html
+* [Mathematical Expressions Homework](https://kash484.github.io/portfolio/2026/02/24/mathematicalexpressions-redo.html)
 
-JSON Homework Link: https://kash484.github.io/portfolio/2026/02/24/jsonhw-redo.html
+* [Booleans Homework](https://kash484.github.io/portfolio/2026/02/24/booleans-redo.html)
 
-Data Abstractions Homework Link: https://kash484.github.io/portfolio/2026/02/24/dataabstractions-redo.html
+* [JSON Homework](https://kash484.github.io/portfolio/2026/02/24/jsonhw-redo.html)
 
-Strings Homework Link:  https://kash484.github.io/portfolio/2026/02/25/strings-redo.html
+* [Data Abstractions Homework](https://kash484.github.io/portfolio/2026/02/24/dataabstractions-redo.html)
 
-Classes and Methods Homework Link: https://kash484.github.io/portfolio/2026/02/25/Classes&Methods-redo.html
+* [Strings Homework](https://kash484.github.io/portfolio/2026/02/25/strings-redo.html)
 
-HTML DOM and Variables Homework: Me, Aadi, and Daniel taught this.
+* [Classes and Methods Homework](https://kash484.github.io/portfolio/2026/02/25/Classes&Methods-redo.html)
+
+**Note:** The HTML DOM and Variables lesson was taught by me, Aadi, and Daniel.
