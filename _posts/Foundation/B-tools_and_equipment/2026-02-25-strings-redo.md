@@ -1,5 +1,5 @@
-``` js
-
+```js
+   
     // Three strings of varying lengths
     let str1 = "Homework";
     let str2 = "JavaScript is fun";
