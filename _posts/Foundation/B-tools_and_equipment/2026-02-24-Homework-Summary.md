@@ -14,7 +14,7 @@
 
 * [Data Abstractions Homework](https://kash484.github.io/portfolio/2026/02/24/dataabstractions-redo.html)
 
-* [Strings Homework](https://kash484.github.io/portfolio/2026/02/25/strings-redo.html)
+* [Strings Homework](https://kash484.github.io/portfolio/js/strings-hw)
 
 * [Classes and Methods Homework](https://kash484.github.io/portfolio/2026/02/25/Classes&Methods-redo.html)
 
